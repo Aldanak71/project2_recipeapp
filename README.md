@@ -13,3 +13,12 @@ A web application that allows users to search for recipes by ingredients or dish
    ```bash
    git clone https://github.com/your-username/recipe-finder.git
    cd recipe-finder
+
+## Screenshots
+Here is a screenshot of the main page:
+
+![Main Page Screenshot](assets/img/image1.png)
+
+And  favorite screenshot :
+
+![Dashboard Screenshot](assets/img/image.png)
